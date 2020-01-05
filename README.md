@@ -1,6 +1,9 @@
 # Dokku Buildpack: nginx
 
-This is the official dokku buildpack for static websites, powered by nginx.
+This is **not** the official dokku buildpack for static websites, powered by nginx.
+
+The modifications made are as follows:
+- basic auth is enabled
 
 ## Usage
 
